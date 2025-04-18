@@ -329,6 +329,31 @@ export default Icon;`;
         />
       </Head>
 
+      <Head>
+        <title>React Native SVG Converter | Convert SVG to JSX</title>
+        <meta
+          name="description"
+          content="Paste SVG code and get a React Native SVG component instantly."
+        />
+        <meta
+          name="keywords"
+          content="React Native, SVG, converter, JSX, react-native-svg"
+        />
+        <meta name="author" content="Lalit" />
+        <meta property="og:title" content="React Native SVG Converter" />
+        <meta
+          property="og:description"
+          content="Easily convert SVG to React Native SVG components."
+        />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://svgtorn.vercel.app/" />
+        <meta
+          property="og:image"
+          content="https://github.com/user-attachments/assets/e5769935-5e1b-4c16-a471-596ae555ca12"
+        />
+        <meta name="robots" content="index, follow" />
+      </Head>
+
       <Header
         onSettingsClick={() => setIsSettingsOpen(true)}
         onClearClick={clearAll}

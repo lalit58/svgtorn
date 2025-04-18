@@ -33,7 +33,7 @@ const Sidebar = ({
               Lalit
             </a>
           </p>
-          <p className="version">Version 1.0.0</p>
+          <p className="version">Version 0.1.0</p>
         </div>
       </div>
 
