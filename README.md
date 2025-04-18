@@ -33,5 +33,7 @@ npm run dev
 
 Give a ⭐️ if this project helped you!
 
+![Screenshot (30)](https://github.com/user-attachments/assets/e5769935-5e1b-4c16-a471-596ae555ca12)
+
+
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
