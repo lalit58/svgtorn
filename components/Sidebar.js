@@ -27,7 +27,12 @@ const Sidebar = ({
         </div>
 
         <div className="credits">
-          <p>Created By Lalit</p>
+          <p>
+            Created By{" "}
+            <a href="https://www.linkedin.com/in/lalitkumarsoren/" target="_">
+              Lalit
+            </a>
+          </p>
           <p className="version">Version 1.0.0</p>
         </div>
       </div>
@@ -98,6 +103,9 @@ const Sidebar = ({
         .credits p {
           margin: 5px 0;
           color: ${isDarkMode ? "#aaaaaa" : "#666666"};
+        }
+        .credits p a {
+          color: ${isDarkMode ? "purple" : "#666666"};
         }
 
         .version {

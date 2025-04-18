@@ -19,7 +19,7 @@ const Header = ({ onSettingsClick, onClearClick, isDarkMode }) => {
 
         <div className="social-links">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/lalit58"
             target="_blank"
             rel="noopener noreferrer"
             className="social-link"
@@ -27,7 +27,7 @@ const Header = ({ onSettingsClick, onClearClick, isDarkMode }) => {
             <img src="/github.svg" alt="GitHub" />
           </a>
           <a
-            href="https://twitter.com/yourusername"
+            href="https://x.com/lalit_soren"
             target="_blank"
             rel="noopener noreferrer"
             className="social-link"
@@ -35,7 +35,7 @@ const Header = ({ onSettingsClick, onClearClick, isDarkMode }) => {
             <img src="/twitter.svg" alt="Twitter" />
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/lalitkumarsoren/"
             target="_blank"
             rel="noopener noreferrer"
             className="social-link"
